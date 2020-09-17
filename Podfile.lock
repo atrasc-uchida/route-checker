@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (5.2.2)
+  - Alertift (4.1.1)
+  - FontAwesome.swift (1.9.0)
+  - IBAnimatable (6.1.0)
+  - TinyConstraints (4.0.1)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Alertift
+  - FontAwesome.swift
+  - IBAnimatable
+  - TinyConstraints
+  - Toast-Swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Alertift
+    - FontAwesome.swift
+    - IBAnimatable
+    - TinyConstraints
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  Alertift: 950483ca193717cc8bb508a7dbbe34f4af321daf
+  FontAwesome.swift: a403b88cec950511745ba8f2decd1b6a07346d13
+  IBAnimatable: 99dddd4c0625884a301ba3ecbc1615f8a390368e
+  TinyConstraints: 8dd91295e56797648c7bc335dd20e1d91ec4c192
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: bfef1b6a6e6b01091306f860f89fced3732feafb
+
+COCOAPODS: 1.8.4
